@@ -1,6 +1,6 @@
 package homework
 
-func Average(input []float32) (result float32) {
+func average(input []float32) (result float32) {
 
 	var sum float32 = 0
 	var num int = len(input)
