@@ -5,7 +5,7 @@ import (
 )
 
 
-func sortMapValues(input map[int]string) (result []string) {
+func SortMapValues(input map[int]string) (result []string) {
 	var values []string
 	var keys []int
 	
